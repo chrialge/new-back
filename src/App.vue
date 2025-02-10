@@ -909,7 +909,7 @@ export default {
     <form action="" class="form" @submit.prevent="check_form()">
 
       <div class="logo_image">
-        <img src="../../public/img/logo-blue.png" alt="">
+        <img src="" alt="">
       </div>
 
       <!-- progress-bar -->
